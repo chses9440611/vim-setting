@@ -1,0 +1,5 @@
+luna
+nerdtree
+nord-vim
+rust.vim
+vim-colors-solarized
